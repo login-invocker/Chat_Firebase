@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688863492846",
+    "firebase_url": "https://chatbotwithfirebase.firebaseio.com",
+    "project_id": "chatbotwithfirebase",
+    "storage_bucket": "chatbotwithfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688863492846:android:d14b162ccceeec71a251ff",
+        "android_client_info": {
+          "package_name": "com.invocker.chatbotfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688863492846-c0aj81uncampa10u971rkm6dv6p1raip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invocker.chatbotfacebook",
+            "certificate_hash": "90034988215bd852d99f7cf850220a46b81f7b0f"
+          }
+        },
+        {
+          "client_id": "688863492846-cvnkkj2frnlljchvdq3cgb0eikes0vir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCdXN5OcuKz5NXsJHeSKkYYWJYEtmEtlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688863492846-cvnkkj2frnlljchvdq3cgb0eikes0vir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
