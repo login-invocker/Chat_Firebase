@@ -21,7 +21,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.invocker.chatbotfacebook.Adapter.UsersAdapter;
 import com.invocker.chatbotfacebook.R;
-import com.invocker.chatbotfacebook.User;
+import com.invocker.chatbotfacebook.Model.User;
 
 import java.util.ArrayList;
 import java.util.List;

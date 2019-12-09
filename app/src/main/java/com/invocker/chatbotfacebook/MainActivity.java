@@ -14,7 +14,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.google.android.material.tabs.TabLayout;
@@ -27,12 +26,13 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.invocker.chatbotfacebook.Fragment.ChatsFragment;
 import com.invocker.chatbotfacebook.Fragment.UserFragment;
+import com.invocker.chatbotfacebook.Model.User;
 
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-    FirebaseUser firebaseUser;
-    DatabaseReference reference;
+   private FirebaseUser firebaseUser;
+    private DatabaseReference reference;
     private TextView userName;
     private ImageView imageUser;
     private Toolbar mybar;

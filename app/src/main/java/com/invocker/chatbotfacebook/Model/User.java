@@ -1,4 +1,4 @@
-package com.invocker.chatbotfacebook;
+package com.invocker.chatbotfacebook.Model;
 
 public class User {
     private String id;
